@@ -11,6 +11,11 @@ This repository provides the `bn-Jatiya.mim` input method file for **m17n**, del
 While the official desktop standard published by the Bangladesh Standards and Testing Institution (**BDS 1738:2018**) retained legacy typewriter-era visual typing habits (such as pre-Unicode visual input orders found in Bijoy), this implementation strictly adheres to canonical **Unicode logical ordering** whilst preserving standard key assignments, comprehensive deadkey combinations, and AltGr conjunct shortcuts.
 
 ---
+## 🖼️ Keyboard Layout Map
+
+![Jatiya Desktop Layout](images/jatiya_desktop_layout.png)
+
+---
 
 ## 🚀 Key Usability Enhancements
 
